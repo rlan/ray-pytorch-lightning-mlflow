@@ -2,11 +2,11 @@
 
 Example MNIST training using the following tech stack:
 
-* Ray
-* PyTorch Lightning
-* PyTorch
-* MLflow
 * Python 3.10.12
+* [Ray](https://www.ray.io/)
+* [PyTorch](https://pytorch.org/)
+* [PyTorch Lightning](https://www.pytorchlightning.ai/)
+* [MLflow](https://mlflow.org/)
 
 ## Files
 
